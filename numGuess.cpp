@@ -7,7 +7,7 @@
 #include <iostream>
 int main() {
     // this function checks if the guessed number is correct
-    const int CORRECT_NUMBER = 8;
+    const int CORRECT_NUMBER = 7;
     int guessedNumber;
 
     // get input of guessed number from users
